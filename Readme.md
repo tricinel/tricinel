@@ -6,13 +6,50 @@ I currently live in Düsseldorf, Germany, with my nutty dog Scooby.
 
 ## Highlights from my npm packages
 
-- cuddy
-- highlight-words
-- svelte-timezone-picker
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>Project</b></td>
+      <td><b>Description</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td width="30%"><a href="https://npm.im/cuddy">Cuddy</a></td>
+      <td>An aggregation pipeline built in a functional programming style that lets you search, group, order and transform a collection</td>
+    </tr>
+    <tr>
+      <td width="30%"><a href="https://npm.im/highlight-words">Highlight Words</a></td>
+      <td>split a piece of text into chunks given a search query, by separating matches from non-matches, allowing you to highlight the matches, visually or otherwise, in your app</td>
+    </tr>
+    <tr>
+      <td width="30%"><a href="https://npm.im/svelte-timezone-picker">Svelte Timezone Picker</a></td>
+      <td>a timezone picker that will allow the user to pick a timezone from a list, fully accessible and follows the ARIA design pattern for a <a href="https://www.w3.org/TR/wai-aria-practices/examples/listbox/listbox-collapsible.html">select</a></td>
+    </tr>
+  </tbody>
+</table>
 
 ### Languages and Tools
 
-<img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png" alt="typescript logo"><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" alt="javascript logo"><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" alt="html logo"><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" alt="css logo"><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" alt="react logo"><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/svelte/svelte.png" alt="svelte logo"><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" alt="nodejs logo"><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/graphql/graphql.png" alt="graphql logo"><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/nextjs/nextjs.png" alt="nextjs logo"><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/styled-components/styled-components.png" alt="nextjs logo"><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/tailwind/tailwind.png" alt="tailwind logo"><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/storybook/storybook.png" alt="tailwind logo"><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/sass/sass.png" alt="sass logo">
+<table>
+  <tbody>
+    <tr border: none;>
+      <td><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png" alt="typescript logo"></td>
+      <td><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" alt="javascript logo"></td>
+      <td><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" alt="html logo"></td>
+      <td><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" alt="css logo"></td>
+      <td><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" alt="react logo"></td>
+      <td><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/svelte/svelte.png" alt="svelte logo"></td>
+      <td><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" alt="nodejs logo"></td>
+      <td><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/graphql/graphql.png" alt="graphql logo"></td>
+      <td><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/nextjs/nextjs.png" alt="nextjs logo"></td>
+      <td><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/styled-components/styled-components.png" alt="nextjs logo"></td>
+      <td><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/tailwind/tailwind.png" alt="tailwind logo"></td>
+      <td><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/storybook/storybook.png" alt="tailwind logo"></td>
+      <td><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/sass/sass.png" alt="sass logo"></td>
+    </tr>
+  </tbody>
+</table>
 
 #### GitHub Stats
 
