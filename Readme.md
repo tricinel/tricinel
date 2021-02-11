@@ -1,5 +1,7 @@
 # Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+![Bogdan talking](./header.jpg)
+
 I'm Bogdan, a front-end UI developer specialising in modern JavaScript and CSS, progressive enhancement and accessibility on the web. Passionately advocating for design systems as a means to create fast and accessible websites and web apps, and improving the developer experience through better tools and processes.
 
 I currently live in Düsseldorf, Germany, with my nutty dog Scooby.
