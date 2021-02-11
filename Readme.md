@@ -8,7 +8,7 @@ I currently live in Düsseldorf, Germany, with my nutty dog Scooby.
 
 <table>
   <thead align="center">
-    <tr border: none;>
+    <tr>
       <td><b>Project</b></td>
       <td><b>Description</b></td>
     </tr>
@@ -20,11 +20,11 @@ I currently live in Düsseldorf, Germany, with my nutty dog Scooby.
     </tr>
     <tr>
       <td width="30%"><a href="https://npm.im/highlight-words">Highlight Words</a></td>
-      <td>split a piece of text into chunks given a search query, by separating matches from non-matches, allowing you to highlight the matches, visually or otherwise, in your app</td>
+      <td>Split a piece of text into chunks given a search query, by separating matches from non-matches, allowing you to highlight the matches, visually or otherwise, in your app</td>
     </tr>
     <tr>
       <td width="30%"><a href="https://npm.im/svelte-timezone-picker">Svelte Timezone Picker</a></td>
-      <td>a timezone picker that will allow the user to pick a timezone from a list, fully accessible and follows the ARIA design pattern for a <a href="https://www.w3.org/TR/wai-aria-practices/examples/listbox/listbox-collapsible.html">select</a></td>
+      <td>A timezone picker that will allow the user to pick a timezone from a list, fully accessible and follows the ARIA design pattern for a <a href="https://www.w3.org/TR/wai-aria-practices/examples/listbox/listbox-collapsible.html">select</a></td>
     </tr>
   </tbody>
 </table>
