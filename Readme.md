@@ -31,25 +31,7 @@ I currently live in Düsseldorf, Germany, with my nutty dog Scooby.
 
 ### Languages and Tools
 
-<table>
-  <tbody>
-    <tr border: none;>
-      <td><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png" alt="typescript logo"></td>
-      <td><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" alt="javascript logo"></td>
-      <td><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" alt="html logo"></td>
-      <td><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" alt="css logo"></td>
-      <td><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" alt="react logo"></td>
-      <td><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/svelte/svelte.png" alt="svelte logo"></td>
-      <td><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" alt="nodejs logo"></td>
-      <td><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/graphql/graphql.png" alt="graphql logo"></td>
-      <td><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/nextjs/nextjs.png" alt="nextjs logo"></td>
-      <td><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/styled-components/styled-components.png" alt="nextjs logo"></td>
-      <td><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/tailwind/tailwind.png" alt="tailwind logo"></td>
-      <td><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/storybook/storybook.png" alt="tailwind logo"></td>
-      <td><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/sass/sass.png" alt="sass logo"></td>
-    </tr>
-  </tbody>
-</table>
+<img height="32" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png" alt="typescript logo"> <img height="32" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" alt="javascript logo"> <img height="32" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" alt="html logo"> <img height="32" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" alt="css logo"> <img height="32" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" alt="react logo"> <img height="32" src="https://raw.githubusercontent.com/github/explore/master/topics/svelte/svelte.png" alt="svelte logo"> <img height="32" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" alt="nodejs logo"> <img height="32" src="https://raw.githubusercontent.com/github/explore/master/topics/graphql/graphql.png" alt="graphql logo"> <img height="32" src="https://raw.githubusercontent.com/github/explore/master/topics/nextjs/nextjs.png" alt="nextjs logo"> <img height="32" src="https://raw.githubusercontent.com/github/explore/master/topics/styled-components/styled-components.png" alt="nextjs logo"> <img height="32" src="https://raw.githubusercontent.com/github/explore/master/topics/tailwind/tailwind.png" alt="tailwind logo"> <img height="32" src="https://raw.githubusercontent.com/github/explore/master/topics/storybook/storybook.png" alt="tailwind logo"> <img height="32" src="https://raw.githubusercontent.com/github/explore/master/topics/sass/sass.png" alt="sass logo">
 
 #### GitHub Stats
 
