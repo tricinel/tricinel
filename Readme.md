@@ -46,5 +46,6 @@ I currently live in Düsseldorf, Germany, with my nutty dog Scooby.
 
 ##### How to reach me
 
-- Reach me on [Twitter](https://twitter.com/tricinel) or [Linkedin](https://linkedin.com/in/tricinel)
-- [Resume]()
+[![Twitter Badge](https://img.shields.io/badge/-@tricinel-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/tricinel)](https://twitter.com/tricinel)
+[![Linkedin Badge](https://img.shields.io/badge/-tricinel-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tricinel/)](https://www.linkedin.com/in/tricinel/)
+[![Website Badge](https://img.shields.io/badge/-bogdanlazar.com-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://bogdanlazar.com)](https://bogdanlazar.com)
