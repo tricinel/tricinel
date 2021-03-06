@@ -42,10 +42,10 @@ I currently live in Düsseldorf, Germany, with my nutty dog Scooby.
 #### Todoist Stats
 
 <!-- TODO-IST:START -->
-🏆  50,149 Karma Points           
+🏆  50,154 Karma Points           
 🌸  Completed 0 tasks today           
-🗓  Completed 28 tasks this week           
-✅  Completed 12,251 tasks so far           
+🗓  Completed 32 tasks this week           
+✅  Completed 12,255 tasks so far           
 ⏳  Longest streak is 768 days
 <!-- TODO-IST:END -->
 
