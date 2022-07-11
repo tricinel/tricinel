@@ -39,16 +39,6 @@ I currently live in Düsseldorf, Germany, with my nutty dog Scooby.
 
 ![What I code with](https://github-readme-stats.vercel.app/api/top-langs/?username=tricinel&layout=compact&hide_title=1&card_width=300)
 
-#### Todoist Stats
-
-<!-- TODO-IST:START -->
-🏆  52,653 Karma Points           
-🌸  Completed 0 tasks today           
-🗓  Completed 0 tasks this week           
-✅  Completed 13,947 tasks so far           
-⏳  Longest streak is 768 days
-<!-- TODO-IST:END -->
-
 ##### How to reach me
 
 [![Twitter Badge](https://img.shields.io/badge/-@tricinel-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/tricinel)](https://twitter.com/tricinel)
