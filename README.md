@@ -2,9 +2,9 @@
 
 ![Bogdan talking](./header.jpg)
 
-I'm Bogdan, a front-end UI developer specialising in modern JavaScript and CSS, progressive enhancement and accessibility on the web. Passionately advocating for design systems as a means to create fast and accessible websites and web apps, and improving the developer experience through better tools and processes.
+I'm Bogdan, a front-end UX developer specialising in modern JavaScript and CSS, progressive enhancement and accessibility on the web. Passionately helping organisations mitigate the costly risks of having to fix inaccessible websites through adopting an accessibility-first mindset. I have over 10 years of experience working in the education and healthcare sectors, with expertise in inclusive design, technology and accessibility on the web.
 
-I currently live in Düsseldorf, Germany, with my nutty dog Scooby.
+I currently live in Lelystad, Netherlands, with my nutty dog Scooby.
 
 ## Highlights from my npm packages
 
@@ -33,7 +33,7 @@ I currently live in Düsseldorf, Germany, with my nutty dog Scooby.
 
 ### Languages and Tools
 
-<img height="32" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png" alt="typescript logo"> <img height="32" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" alt="javascript logo"> <img height="32" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" alt="html logo"> <img height="32" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" alt="css logo"> <img height="32" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" alt="react logo"> <img height="32" src="https://raw.githubusercontent.com/github/explore/master/topics/svelte/svelte.png" alt="svelte logo"> <img height="32" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" alt="nodejs logo"> <img height="32" src="https://raw.githubusercontent.com/github/explore/master/topics/graphql/graphql.png" alt="graphql logo"> <img height="32" src="https://raw.githubusercontent.com/github/explore/master/topics/nextjs/nextjs.png" alt="nextjs logo"> <img height="32" src="https://raw.githubusercontent.com/github/explore/master/topics/styled-components/styled-components.png" alt="nextjs logo"> <img height="32" src="https://raw.githubusercontent.com/github/explore/master/topics/tailwind/tailwind.png" alt="tailwind logo"> <img height="32" src="https://raw.githubusercontent.com/github/explore/master/topics/storybook/storybook.png" alt="tailwind logo"> <img height="32" src="https://raw.githubusercontent.com/github/explore/master/topics/sass/sass.png" alt="sass logo">
+<img height="32" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png" alt="typescript logo"> <img height="32" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" alt="javascript logo"> <img height="32" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" alt="html logo"> <img height="32" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" alt="css logo"> <img height="32" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" alt="react logo"> <img height="32" src="https://raw.githubusercontent.com/github/explore/master/topics/svelte/svelte.png" alt="svelte logo"> <img height="32" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" alt="nodejs logo"> <img height="32" src="https://avatars.githubusercontent.com/u/64235328?s=200&v=4" alt="remix logo"> <img height="32" src="https://raw.githubusercontent.com/github/explore/master/topics/tailwind/tailwind.png" alt="tailwind logo">
 
 #### GitHub Stats
 
