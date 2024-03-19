@@ -1,12 +1,30 @@
 # Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-![Bogdan talking](./header.jpg)
+![Ready to ship accessible websites without long-term contracts, proposals or payroll expenses, for a fixed monthly price?](./header.jpg)
 
-I'm Bogdan, a front-end UX developer specialising in modern JavaScript and CSS, progressive enhancement and accessibility on the web. Passionately helping organisations mitigate the costly risks of having to fix inaccessible websites through adopting an accessibility-first mindset. I have over 10 years of experience working in the education and healthcare sectors, with expertise in inclusive design, technology and accessibility on the web.
+I'm Bogdan! I'm the accessibility consultant who helps product owners ship accessible websites without blocking ongoing work.
 
-I currently live in Lelystad, Netherlands, with my nutty dog Scooby.
+I have over ten years of experience working in the education and healthcare sectors, with expertise in inclusive design, technology and accessibility on the web.
 
-## Highlights from my npm packages
+Imagine you didn't have to worry about:
+
+- ✅ critical accessibility issues in production,
+- ✅ cryptic issues in your backlog,
+- ✅ how long it takes your team to fix the accessibility issues in it,
+- ✅ new accessibility issues a release introduces,
+- ✅ costly redesigns and rework, or
+- ✅ what all the fancy acronyms mean.
+
+I do this through a monthly subscription that allows us to work together based on the level of support your team needs. I belive this is the most effective way to make progress quickly. By eliminating the friction of changing priorities, debating scope and exchanging proposals, contracts and statements of work, I can help you consistently ship an accessible product.
+
+[Book 1:1 👉 Start shipping](https://bogdanlazar.com/work-with-me)
+
+## Grab a free accessibility resource
+
+- [Accessibility Checklists](https://bogdanlazar.com/resources/accessibility-checklists). A set of free checklists as PDFs for product owners, designers, developers and testers to nudge you towards a more accessible outcome by weaving accessibility into your software development lifecycle.
+- [Six Days to an Accessible Website](https://bogdanlazar.com/resources/six-days-to-an-accessible-website). A free six day email course to teach you how to get the upper-hand on 1 million websites by fixing the most common accessibility issues on yours.
+
+Or use one of my open source packages:
 
 <table>
   <thead align="center">
@@ -17,16 +35,16 @@ I currently live in Lelystad, Netherlands, with my nutty dog Scooby.
   </thead>
   <tbody>
     <tr>
-      <td width="30%"><a href="https://npm.im/cuddy">Cuddy</a></td>
-      <td>An aggregation pipeline built in a functional programming style that lets you search, group, order and transform a collection</td>
+      <td width="30%"><a href="https://npm.im/npm.im/a11y-reset">Accessibility CSS Reset</a></td>
+      <td>A style reset specifically aimed at accessibility that embraces modern CSS features to help start your project without accessibility errors</td>
+    </tr>
+    <tr>
+      <td width="30%"><a href="https://github.com/tricinel/wcag-search-alfred-workflow">WCAG2.2 Search Alfred Workflow</a></td>
+      <td>Alfred workflow to search the Web Content Accessibility Guidelines (WCAG).</td>
     </tr>
     <tr>
       <td width="30%"><a href="https://npm.im/highlight-words">Highlight Words</a></td>
       <td>Split a piece of text into chunks given a search query, by separating matches from non-matches, allowing you to highlight the matches, visually or otherwise, in your app</td>
-    </tr>
-    <tr>
-      <td width="30%"><a href="https://npm.im/svelte-timezone-picker">Svelte Timezone Picker</a></td>
-      <td>A timezone picker that will allow the user to pick a timezone from a list, fully accessible and follows the ARIA design pattern for a <a href="https://www.w3.org/TR/wai-aria-practices/examples/listbox/listbox-collapsible.html">select</a></td>
     </tr>
   </tbody>
 </table>
