@@ -2,11 +2,13 @@
 
 ![Ready to ship accessible websites without long-term contracts, proposals or payroll expenses, for a fixed monthly price?](./ship-accessible-websites-header.jpg)
 
-I'm Bogdan! I'm the accessibility consultant who helps product owners ship accessible websites without blocking ongoing work.
+I'm Bogdan!
+
+**I'm the accessibility consultant who helps product owners ship accessible websites without blocking ongoing work.**
 
 I have over ten years of experience working in the education and healthcare sectors, with expertise in inclusive design, technology and accessibility on the web.
 
-Imagine you didn't have to worry about:
+## Imagine you didn't have to worry about:
 
 - ✅ critical accessibility issues in production,
 - ✅ cryptic issues in your backlog,
@@ -17,9 +19,9 @@ Imagine you didn't have to worry about:
 
 I do this through a monthly subscription that allows us to work together based on the level of support your team needs. I belive this is the most effective way to make progress quickly. By eliminating the friction of changing priorities, debating scope and exchanging proposals, contracts and statements of work, I can help you consistently ship an accessible product.
 
-[Book 1:1 👉 Start shipping](https://bogdanlazar.com/work-with-me)
+**[Book 1:1 👉 Start shipping](https://bogdanlazar.com/work-with-me)**
 
-## Grab a free accessibility resource
+### Grab a free accessibility resource
 
 - [Accessibility Checklists](https://bogdanlazar.com/resources/accessibility-checklists). A set of free checklists as PDFs for product owners, designers, developers and testers to nudge you towards a more accessible outcome by weaving accessibility into your software development lifecycle.
 - [Six Days to an Accessible Website](https://bogdanlazar.com/resources/six-days-to-an-accessible-website). A free six day email course to teach you how to get the upper-hand on 1 million websites by fixing the most common accessibility issues on yours.
@@ -49,16 +51,16 @@ Or use one of my open source packages:
   </tbody>
 </table>
 
-### Languages and Tools
+#### Languages and Tools
 
 <img height="32" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png" alt="typescript logo"> <img height="32" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" alt="javascript logo"> <img height="32" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" alt="html logo"> <img height="32" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" alt="css logo"> <img height="32" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" alt="react logo"> <img height="32" src="https://raw.githubusercontent.com/github/explore/master/topics/svelte/svelte.png" alt="svelte logo"> <img height="32" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" alt="nodejs logo"> <img height="32" src="https://avatars.githubusercontent.com/u/64235328?s=200&v=4" alt="remix logo"> <img height="32" src="https://raw.githubusercontent.com/github/explore/master/topics/tailwind/tailwind.png" alt="tailwind logo">
 
-#### GitHub Stats
+##### GitHub Stats
 
 ![What I code with](https://github-readme-stats.vercel.app/api/top-langs/?username=tricinel&layout=compact&hide_title=1&card_width=300)
 
-##### How to reach me
+##### Get in touch
 
 [![Twitter Badge](https://img.shields.io/badge/-@tricinel-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/tricinel)](https://twitter.com/tricinel)
 [![Linkedin Badge](https://img.shields.io/badge/-tricinel-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tricinel/)](https://www.linkedin.com/in/tricinel/)
-[![Website Badge](https://img.shields.io/badge/-bogdanlazar.com-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://bogdanlazar.com)](https://bogdanlazar.com)
+[![Website Badge](https://img.shields.io/badge/-bogdanlazar.com-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://bogdanlazar.com)](https://bogdanlazar.com/get-in-touch)
