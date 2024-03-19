@@ -1,6 +1,6 @@
 # Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-![Ready to ship accessible websites without long-term contracts, proposals or payroll expenses, for a fixed monthly price?](./header.jpg)
+![Ready to ship accessible websites without long-term contracts, proposals or payroll expenses, for a fixed monthly price?](./ship-accessible-websites-header.jpg)
 
 I'm Bogdan! I'm the accessibility consultant who helps product owners ship accessible websites without blocking ongoing work.
 
