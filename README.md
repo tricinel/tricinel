@@ -2,6 +2,8 @@
 
 ![Ready to ship accessible websites without long-term contracts, proposals or payroll expenses, for a fixed monthly price?](./ship-accessible-websites-header.jpg)
 
+**[Book 1:1 👉 Start shipping](https://bogdanlazar.com/work-with-me)**
+
 I'm Bogdan!
 
 **I'm the accessibility consultant who helps product owners ship accessible websites without blocking ongoing work.**
