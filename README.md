@@ -39,7 +39,7 @@ Or use one of my open source packages:
   </thead>
   <tbody>
     <tr>
-      <td width="30%"><a href="https://npm.im/npm.im/a11y-reset">Accessibility CSS Reset</a></td>
+      <td width="30%"><a href="https://npm.im/a11y-reset">Accessibility CSS Reset</a></td>
       <td>A style reset specifically aimed at accessibility that embraces modern CSS features to help start your project without accessibility errors</td>
     </tr>
     <tr>
