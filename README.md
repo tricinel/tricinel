@@ -43,7 +43,7 @@ Or use one of my open source packages:
       <td>A style reset specifically aimed at accessibility that embraces modern CSS features to help start your project without accessibility errors</td>
     </tr>
     <tr>
-      <td width="30%"><a href="https://github.com/tricinel/wcag-search-alfred-workflow">WCAG2.2 Search Alfred Workflow</a></td>
+      <td width="30%"><a href="https://github.com/tricinel/alfred-wcag-search">WCAG2.2 Search Alfred Workflow</a></td>
       <td>Alfred workflow to search the Web Content Accessibility Guidelines (WCAG).</td>
     </tr>
     <tr>
